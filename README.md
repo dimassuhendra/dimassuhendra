@@ -16,16 +16,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 **Current Focus:** Building web applications and exploring real-time services & network infrastructure.
-- 🎓 **Education:** Bachelor's Degree in Information Systems from UIN Raden Intan Lampung.
-- 💼 **Experience:** Full-Stack Web Development, Technical Support, and IT Infrastructure.
-- 🌱 **Learning & Exploring:** Advanced WebSockets, Real-time Tracking Systems, and Server Operations.
-- ⚡ **Fun Fact:** I enjoy designing web UIs and troubleshooting network connectivity challenges!
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 #### **Programming Languages**
@@ -83,8 +73,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dimassuhendra&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimassuhendra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
